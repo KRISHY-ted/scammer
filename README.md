@@ -1,0 +1,2 @@
+# scammer
+a scam
