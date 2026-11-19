@@ -1,2 +1,8 @@
 h1 { color: #FF692A;}
 body { background-color: #ADD8E6; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;} 
+button {
+    font-size: 32px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
