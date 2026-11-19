@@ -9,5 +9,7 @@ function newwin() {
     console.log("hi")
 }
 function history() {
-
+    let state = {name:"example", page: -1};
+    let url = "page2.html";
+    history.pushState(state, "", url);
 }
