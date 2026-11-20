@@ -29,6 +29,6 @@ function mainscript() {
     setInterval(() => {
         title(numstored());
         num++;
-        //store(num)
+        store(num)
     }, 1);
 }
